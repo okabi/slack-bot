@@ -1,2 +1,5 @@
 # Ignore private keys
 define.rb
+
+# Ignore log files
+*.log
